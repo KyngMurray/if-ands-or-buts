@@ -16,7 +16,7 @@ let totalBill = person1 + person2 + person3;
 console.log("The Total Bill is: ");
 console.log(totalBill);
 
-// let evenSplit equals totalBill divided by 3
+// let evenSplit equals totalBill divided by 3.
 let evenSplit = totalBill / 3;
 
 console.log("An Even Split Is: ");
